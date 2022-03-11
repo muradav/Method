@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Development\Method\Method.Massive\Method.Massive\bin\Debug\netcoreapp3.1\Method.Massive.exe
+C:\Users\HP\Desktop\Development\Method\Method.Massive\Method.Massive\bin\Debug\netcoreapp3.1\Method.Massive.deps.json
+C:\Users\HP\Desktop\Development\Method\Method.Massive\Method.Massive\bin\Debug\netcoreapp3.1\Method.Massive.runtimeconfig.json
+C:\Users\HP\Desktop\Development\Method\Method.Massive\Method.Massive\bin\Debug\netcoreapp3.1\Method.Massive.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Development\Method\Method.Massive\Method.Massive\bin\Debug\netcoreapp3.1\Method.Massive.dll
+C:\Users\HP\Desktop\Development\Method\Method.Massive\Method.Massive\bin\Debug\netcoreapp3.1\Method.Massive.pdb
+C:\Users\HP\Desktop\Development\Method\Method.Massive\Method.Massive\obj\Debug\netcoreapp3.1\Method.Massive.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Development\Method\Method.Massive\Method.Massive\obj\Debug\netcoreapp3.1\Method.Massive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Development\Method\Method.Massive\Method.Massive\obj\Debug\netcoreapp3.1\Method.Massive.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Development\Method\Method.Massive\Method.Massive\obj\Debug\netcoreapp3.1\Method.Massive.AssemblyInfo.cs
+C:\Users\HP\Desktop\Development\Method\Method.Massive\Method.Massive\obj\Debug\netcoreapp3.1\Method.Massive.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Development\Method\Method.Massive\Method.Massive\obj\Debug\netcoreapp3.1\Method.Massive.dll
+C:\Users\HP\Desktop\Development\Method\Method.Massive\Method.Massive\obj\Debug\netcoreapp3.1\Method.Massive.pdb
+C:\Users\HP\Desktop\Development\Method\Method.Massive\Method.Massive\obj\Debug\netcoreapp3.1\Method.Massive.genruntimeconfig.cache

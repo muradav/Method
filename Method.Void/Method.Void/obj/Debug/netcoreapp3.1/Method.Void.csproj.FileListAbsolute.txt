@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Development\Method\Method.Void\Method.Void\bin\Debug\netcoreapp3.1\Method.Void.exe
+C:\Users\HP\Desktop\Development\Method\Method.Void\Method.Void\bin\Debug\netcoreapp3.1\Method.Void.deps.json
+C:\Users\HP\Desktop\Development\Method\Method.Void\Method.Void\bin\Debug\netcoreapp3.1\Method.Void.runtimeconfig.json
+C:\Users\HP\Desktop\Development\Method\Method.Void\Method.Void\bin\Debug\netcoreapp3.1\Method.Void.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Development\Method\Method.Void\Method.Void\bin\Debug\netcoreapp3.1\Method.Void.dll
+C:\Users\HP\Desktop\Development\Method\Method.Void\Method.Void\bin\Debug\netcoreapp3.1\Method.Void.pdb
+C:\Users\HP\Desktop\Development\Method\Method.Void\Method.Void\obj\Debug\netcoreapp3.1\Method.Void.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Development\Method\Method.Void\Method.Void\obj\Debug\netcoreapp3.1\Method.Void.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Development\Method\Method.Void\Method.Void\obj\Debug\netcoreapp3.1\Method.Void.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Development\Method\Method.Void\Method.Void\obj\Debug\netcoreapp3.1\Method.Void.AssemblyInfo.cs
+C:\Users\HP\Desktop\Development\Method\Method.Void\Method.Void\obj\Debug\netcoreapp3.1\Method.Void.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Development\Method\Method.Void\Method.Void\obj\Debug\netcoreapp3.1\Method.Void.dll
+C:\Users\HP\Desktop\Development\Method\Method.Void\Method.Void\obj\Debug\netcoreapp3.1\Method.Void.pdb
+C:\Users\HP\Desktop\Development\Method\Method.Void\Method.Void\obj\Debug\netcoreapp3.1\Method.Void.genruntimeconfig.cache

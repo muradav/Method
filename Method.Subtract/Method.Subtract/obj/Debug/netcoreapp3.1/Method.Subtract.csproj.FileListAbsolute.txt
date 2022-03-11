@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\Development\Method\Method.Subtract\Method.Subtract\bin\Debug\netcoreapp3.1\Method.Subtract.exe
+C:\Users\HP\Desktop\Development\Method\Method.Subtract\Method.Subtract\bin\Debug\netcoreapp3.1\Method.Subtract.deps.json
+C:\Users\HP\Desktop\Development\Method\Method.Subtract\Method.Subtract\bin\Debug\netcoreapp3.1\Method.Subtract.runtimeconfig.json
+C:\Users\HP\Desktop\Development\Method\Method.Subtract\Method.Subtract\bin\Debug\netcoreapp3.1\Method.Subtract.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Development\Method\Method.Subtract\Method.Subtract\bin\Debug\netcoreapp3.1\Method.Subtract.dll
+C:\Users\HP\Desktop\Development\Method\Method.Subtract\Method.Subtract\bin\Debug\netcoreapp3.1\Method.Subtract.pdb
+C:\Users\HP\Desktop\Development\Method\Method.Subtract\Method.Subtract\obj\Debug\netcoreapp3.1\Method.Subtract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Development\Method\Method.Subtract\Method.Subtract\obj\Debug\netcoreapp3.1\Method.Subtract.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Development\Method\Method.Subtract\Method.Subtract\obj\Debug\netcoreapp3.1\Method.Subtract.AssemblyInfo.cs
+C:\Users\HP\Desktop\Development\Method\Method.Subtract\Method.Subtract\obj\Debug\netcoreapp3.1\Method.Subtract.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Development\Method\Method.Subtract\Method.Subtract\obj\Debug\netcoreapp3.1\Method.Subtract.dll
+C:\Users\HP\Desktop\Development\Method\Method.Subtract\Method.Subtract\obj\Debug\netcoreapp3.1\Method.Subtract.pdb
+C:\Users\HP\Desktop\Development\Method\Method.Subtract\Method.Subtract\obj\Debug\netcoreapp3.1\Method.Subtract.genruntimeconfig.cache

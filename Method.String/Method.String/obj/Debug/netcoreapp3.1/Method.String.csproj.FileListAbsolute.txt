@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Development\Method\Method.String\Method.String\bin\Debug\netcoreapp3.1\Method.String.exe
+C:\Users\HP\Desktop\Development\Method\Method.String\Method.String\bin\Debug\netcoreapp3.1\Method.String.deps.json
+C:\Users\HP\Desktop\Development\Method\Method.String\Method.String\bin\Debug\netcoreapp3.1\Method.String.runtimeconfig.json
+C:\Users\HP\Desktop\Development\Method\Method.String\Method.String\bin\Debug\netcoreapp3.1\Method.String.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Development\Method\Method.String\Method.String\bin\Debug\netcoreapp3.1\Method.String.dll
+C:\Users\HP\Desktop\Development\Method\Method.String\Method.String\bin\Debug\netcoreapp3.1\Method.String.pdb
+C:\Users\HP\Desktop\Development\Method\Method.String\Method.String\obj\Debug\netcoreapp3.1\Method.String.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Development\Method\Method.String\Method.String\obj\Debug\netcoreapp3.1\Method.String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Development\Method\Method.String\Method.String\obj\Debug\netcoreapp3.1\Method.String.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Development\Method\Method.String\Method.String\obj\Debug\netcoreapp3.1\Method.String.AssemblyInfo.cs
+C:\Users\HP\Desktop\Development\Method\Method.String\Method.String\obj\Debug\netcoreapp3.1\Method.String.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Development\Method\Method.String\Method.String\obj\Debug\netcoreapp3.1\Method.String.dll
+C:\Users\HP\Desktop\Development\Method\Method.String\Method.String\obj\Debug\netcoreapp3.1\Method.String.pdb
+C:\Users\HP\Desktop\Development\Method\Method.String\Method.String\obj\Debug\netcoreapp3.1\Method.String.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\Development\Method\Method.Params\Method.Params\bin\Debug\netcoreapp3.1\Method.Params.exe
+C:\Users\HP\Desktop\Development\Method\Method.Params\Method.Params\bin\Debug\netcoreapp3.1\Method.Params.deps.json
+C:\Users\HP\Desktop\Development\Method\Method.Params\Method.Params\bin\Debug\netcoreapp3.1\Method.Params.runtimeconfig.json
+C:\Users\HP\Desktop\Development\Method\Method.Params\Method.Params\bin\Debug\netcoreapp3.1\Method.Params.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Development\Method\Method.Params\Method.Params\bin\Debug\netcoreapp3.1\Method.Params.dll
+C:\Users\HP\Desktop\Development\Method\Method.Params\Method.Params\bin\Debug\netcoreapp3.1\Method.Params.pdb
+C:\Users\HP\Desktop\Development\Method\Method.Params\Method.Params\obj\Debug\netcoreapp3.1\Method.Params.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Development\Method\Method.Params\Method.Params\obj\Debug\netcoreapp3.1\Method.Params.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Development\Method\Method.Params\Method.Params\obj\Debug\netcoreapp3.1\Method.Params.AssemblyInfo.cs
+C:\Users\HP\Desktop\Development\Method\Method.Params\Method.Params\obj\Debug\netcoreapp3.1\Method.Params.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Development\Method\Method.Params\Method.Params\obj\Debug\netcoreapp3.1\Method.Params.dll
+C:\Users\HP\Desktop\Development\Method\Method.Params\Method.Params\obj\Debug\netcoreapp3.1\Method.Params.pdb
+C:\Users\HP\Desktop\Development\Method\Method.Params\Method.Params\obj\Debug\netcoreapp3.1\Method.Params.genruntimeconfig.cache

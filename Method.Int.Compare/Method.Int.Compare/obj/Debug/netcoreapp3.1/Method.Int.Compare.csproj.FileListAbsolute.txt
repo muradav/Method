@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Development\Method\Method.Int.Compare\Method.Int.Compare\bin\Debug\netcoreapp3.1\Method.Int.Compare.exe
+C:\Users\HP\Desktop\Development\Method\Method.Int.Compare\Method.Int.Compare\bin\Debug\netcoreapp3.1\Method.Int.Compare.deps.json
+C:\Users\HP\Desktop\Development\Method\Method.Int.Compare\Method.Int.Compare\bin\Debug\netcoreapp3.1\Method.Int.Compare.runtimeconfig.json
+C:\Users\HP\Desktop\Development\Method\Method.Int.Compare\Method.Int.Compare\bin\Debug\netcoreapp3.1\Method.Int.Compare.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Development\Method\Method.Int.Compare\Method.Int.Compare\bin\Debug\netcoreapp3.1\Method.Int.Compare.dll
+C:\Users\HP\Desktop\Development\Method\Method.Int.Compare\Method.Int.Compare\bin\Debug\netcoreapp3.1\Method.Int.Compare.pdb
+C:\Users\HP\Desktop\Development\Method\Method.Int.Compare\Method.Int.Compare\obj\Debug\netcoreapp3.1\Method.Int.Compare.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Development\Method\Method.Int.Compare\Method.Int.Compare\obj\Debug\netcoreapp3.1\Method.Int.Compare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Development\Method\Method.Int.Compare\Method.Int.Compare\obj\Debug\netcoreapp3.1\Method.Int.Compare.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Development\Method\Method.Int.Compare\Method.Int.Compare\obj\Debug\netcoreapp3.1\Method.Int.Compare.AssemblyInfo.cs
+C:\Users\HP\Desktop\Development\Method\Method.Int.Compare\Method.Int.Compare\obj\Debug\netcoreapp3.1\Method.Int.Compare.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Development\Method\Method.Int.Compare\Method.Int.Compare\obj\Debug\netcoreapp3.1\Method.Int.Compare.dll
+C:\Users\HP\Desktop\Development\Method\Method.Int.Compare\Method.Int.Compare\obj\Debug\netcoreapp3.1\Method.Int.Compare.pdb
+C:\Users\HP\Desktop\Development\Method\Method.Int.Compare\Method.Int.Compare\obj\Debug\netcoreapp3.1\Method.Int.Compare.genruntimeconfig.cache
